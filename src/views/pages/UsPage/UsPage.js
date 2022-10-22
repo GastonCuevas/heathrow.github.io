@@ -78,7 +78,7 @@ export const UsPage = () => {
                     <li>2020: the COVID-19 pandemic hit the aviation and tourism industry hard; the airport announced that from 6 April the airport would switch to single-runway operation. It was reported that some 200 homeless people had moved to using Heathrow Airport, as some of the London amenities they were used to using were closed due to the UK lockdown.</li>
                   </ul>
                   <ul>
-                    <li>Font: 
+                    <li>Source: 
                       <a href='https://en.wikipedia.org/wiki/History_of_Heathrow_Airport#'> History of Heathrow Airport Wikipedia</a>
                     </li>
                   </ul>
