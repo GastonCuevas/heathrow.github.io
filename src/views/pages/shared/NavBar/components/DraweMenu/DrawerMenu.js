@@ -71,7 +71,7 @@ export const DrawerMenu = ({ onClose, openDrawer }) => {
           <a
             target='_blank'
             rel='noopener noreferrer'
-            href='https://en.wikipedia.org/wiki/Heathrow_Airport#/map/0'>
+            href='https://goo.gl/maps/TBx8dmBQMm1TFT1s5'>
             <ListItemIcon>
               <LocationOnIcon />
             </ListItemIcon>
